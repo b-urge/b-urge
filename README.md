@@ -1,3 +1,4 @@
+```text
 88888888888888888888888888888888888888888888888888888888888888888888888
 88.._|      | `-.  | `.  -_-_ _-_  _-  _- -_ -  .'|   |.'|     |  _..88
 88   `-.._  |    |`!  |`.  -_ -__ -_ _- _-_-  .'  |.;'   |   _.!-'|  88
@@ -20,7 +21,8 @@
 88     .'   | .'   |/|  /                     \ |`!   |`.|    `.  |  88
 88  _.'     !'|   .' | /                       \|  `  |  `.    |`.|  88
 88888888888888888888888888888888888888888888888888888888888888888888888
+```
 
 Tinkerer / applied AI builder / learning developer
 
-Python · Embedded systems · AI agents · Edge AI · Technical writing · Data visualization
+`Python · Embedded systems · AI agents · Edge AI · Technical writing · Data visualization`
