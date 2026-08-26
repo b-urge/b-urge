@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  <code>Python · Embedded systems · AI agents · Edge AI · Technical writing · Data visualization</code>
+  <code>Python · Embedded systems · AI agents · Edge AI · Technical writing</code>
 </p>
