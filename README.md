@@ -2,8 +2,6 @@
   <img src="./d7jx8wi55blg1.gif">
 </p>
 
-<h1 align="center">KATIE B</h1>
-
 <p align="center">
   Tinkerer / applied AI builder / learning developer
 </p>
