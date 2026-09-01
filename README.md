@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Tinkerer / applied AI builder / learning developer
+  Tinkerer / learning developer / hackathon enjoyer
 </p>
 
 <p align="center">
